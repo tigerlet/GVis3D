@@ -124,7 +124,7 @@ gvis3d/
 │   ├── gcode_model.py         # Model data structures
 │   ├── gl_widget.py           # OpenGL rendering with lighting
 │   └── main_window.py         # Main UI window
-└── web/examples/              # Sample GCode files
+└── examples/              # Sample GCode files
     └── octocat.gcode          # Default demo file
 ```
 
