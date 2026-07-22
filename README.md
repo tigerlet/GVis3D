@@ -116,7 +116,6 @@ gvis3d/
 ├── main.py                    # Application entry point
 ├── requirements.txt           # Dependencies
 ├── setup.py                   # Packaging configuration
-├── DESIGN.md                  # Design documentation
 ├── README.md                  # This file
 ├── gcode_viewer/              # Main package
 │   ├── __init__.py
